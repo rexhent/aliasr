@@ -1,9 +1,8 @@
-termite
-xorg-server
-xorg-xandr
-xorg-xinit
-firefox
-feh
-gnome-backgrounds
-xorg-xsetroot
-make
+Dependencies:
+
+
+termite xorg-server xorg-xandr xorg-xinit firefox feh gnome-backgrounds xorg-xsetroot make
+
+
+download the font ttf-mononoki from the aur
+
