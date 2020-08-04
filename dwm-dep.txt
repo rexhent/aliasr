@@ -1,0 +1,9 @@
+termite
+xorg-server
+xorg-xandr
+xorg-xinit
+firefox
+feh
+gnome-backgrounds
+xorg-xsetroot
+make
